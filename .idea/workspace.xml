@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3aa4cbec-fd5e-4167-aef6-d5bb6f7e02bc" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PlayerTable.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/players/PlayerTable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="50" column="3" lean-forward="true" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../java/games-widget" value="1481152217000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/PlayerTable.css" />
+        <option value="$PROJECT_DIR$/src/components/PlayerTable.js" />
+        <option value="$PROJECT_DIR$/src/components/players/PlayerGrid.js" />
+        <option value="$PROJECT_DIR$/src/components/core/LeagueFilter.js" />
+        <option value="$PROJECT_DIR$/src/components/core/Header.js" />
+        <option value="$PROJECT_DIR$/src/components/core/Home.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/league/LeagueFilter.js" />
+        <option value="$PROJECT_DIR$/src/static/config/app.json" />
+        <option value="$PROJECT_DIR$/src/components/players/PlayerForm.js" />
+        <option value="$PROJECT_DIR$/src/components/players/PlayerTable.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fantasy-football-tracker-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fantasy-football-tracker-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fantasy-football-tracker-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fantasy-football-tracker-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fantasy-football-tracker-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fantasy-football-tracker-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fantasy-football-tracker-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fantasy-football-tracker-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fantasy-football-tracker-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fantasy-football-tracker-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="league" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fantasy-football-tracker-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fantasy-football-tracker-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="players" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fantasy-football-tracker-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fantasy-football-tracker-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fantasy-football-tracker-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fantasy-football-tracker-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/andrewfrye/Documents/projects/fantasy-football-tracker-app/src/components/players/PlayerForm.js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/league" />
+      <recent name="$PROJECT_DIR$/src/components/players" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../scala/hello-akka" value="1471831079000" />
+        <entry key="$PROJECT_DIR$/../../scala/hello-slick-3.0" value="1475018528000" />
+        <entry key="$PROJECT_DIR$/../../scala/play-reactive-mongo-db" value="1475022738000" />
+        <entry key="$PROJECT_DIR$/../../scala/play-scala-rest-elasticsearch" value="1471921317000" />
+        <entry key="$PROJECT_DIR$/../../scala/play-silhouette-slick-seed" value="1447724887000" />
+        <entry key="$PROJECT_DIR$/../../scala/reactive-stocks" value="1471830718000" />
+        <entry key="$PROJECT_DIR$/../../trinityBE" value="1446166894000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3aa4cbec-fd5e-4167-aef6-d5bb6f7e02bc" name="Default" comment="" />
+      <created>1504919230299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504919230299</updated>
+      <workItem from="1504919231726" duration="2260000" />
+      <workItem from="1504923972588" duration="17459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19719000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/static/config/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+          <folding>
+            <marker date="1504994447000" expanded="true" signature="0:194" ph="{&quot;origin&quot;: &quot;http://localhost:3333&quot;...}" />
+            <marker date="1504994447000" expanded="true" signature="54:192" ph="{&quot;get&quot;: &quot;/players&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logo.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1504919250000" expanded="true" signature="65:2669" ph="..." />
+            <marker date="1504919250000" expanded="true" signature="88:2662" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1504972901000" expanded="true" signature="99:106" ph="{&quot;react&quot;: &quot;^15.6.1&quot;...}" />
+            <marker date="1504972901000" expanded="true" signature="294:452" ph="{&quot;start&quot;: &quot;react-scripts start&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/registerServiceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1504919250000" expanded="true" signature="82:371" ph="//..." />
+            <marker date="1504919250000" expanded="true" signature="373:523" ph="//..." />
+            <marker date="1504919250000" expanded="true" signature="885:1836" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="964:1834" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="1164:1436" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="1172:1416" ph="//..." />
+            <marker date="1504919250000" expanded="true" signature="1480:1828" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="1574:1674" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="1680:1822" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="1870:2982" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="1945:2876" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="1988:2869" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="2095:2860" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="2151:2850" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="2205:2574" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="2221:2488" ph="//..." />
+            <marker date="1504919250000" expanded="true" signature="2580:2838" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="2596:2759" ph="//..." />
+            <marker date="1504919250000" expanded="true" signature="2898:2978" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="3024:3847" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="3139:3717" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="3350:3612" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="3490:3602" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="3539:3590" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="3618:3711" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="3736:3843" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="3878:4021" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="3916:4019" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="3973:4013" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding>
+            <marker date="1504919250000" expanded="true" signature="31:1588" ph="..." />
+            <marker date="1504919250000" expanded="true" signature="40:1044" ph="..." />
+            <marker date="1504919250000" expanded="true" signature="216:414" ph="..." />
+            <marker date="1504919250000" expanded="true" signature="549:1003" ph="..." />
+            <marker date="1504919250000" expanded="true" signature="1053:1580" ph="..." />
+            <marker date="1504919250000" expanded="true" signature="1068:1137" ph="..." />
+            <marker date="1504919250000" expanded="true" signature="1173:1568" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1504919250000" expanded="true" signature="7:85" ph="..." />
+            <marker date="1504919250000" expanded="true" signature="124:205" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1504919250000" expanded="true" signature="5:30" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="42:109" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="123:202" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="215:238" ph="{...}" />
+            <marker date="1504919250000" expanded="true" signature="265:340" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/players/PlayerTable.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding>
+            <marker date="1504919763000" expanded="true" signature="13:43" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1504919250000" expanded="true" signature="7:168" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/players/PlayerGrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <marker date="1504927333000" expanded="true" signature="7:68" ph="..." />
+            <marker date="1504927333000" expanded="true" signature="120:754" ph="{...}" />
+            <marker date="1504927333000" expanded="true" signature="143:200" ph="{...}" />
+            <marker date="1504927333000" expanded="true" signature="224:381" ph="{...}" />
+            <marker date="1504927333000" expanded="true" signature="319:375" ph="{...}" />
+            <marker date="1504927333000" expanded="true" signature="394:752" ph="{...}" />
+            <marker date="1504927333000" expanded="true" signature="436:684" ph="{...}" />
+            <marker date="1504927333000" expanded="true" signature="498:633" ph="{...}" />
+            <marker date="1504927333000" expanded="true" signature="527:615" ph="&lt;tr/&gt;" />
+            <marker date="1504927333000" expanded="true" signature="544:599" ph="&lt;td/&gt;" />
+            <marker date="1504927333000" expanded="true" signature="690:747" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/core/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding>
+            <marker date="1504973940000" expanded="true" signature="89:515" ph="{...}" />
+            <marker date="1504973940000" expanded="true" signature="112:135" ph="{...}" />
+            <marker date="1504973940000" expanded="true" signature="148:513" ph="{...}" />
+            <marker date="1504973940000" expanded="true" signature="169:503" ph="&lt;nav/&gt;" />
+            <marker date="1504973940000" expanded="true" signature="316:490" ph="&lt;div/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/core/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          <folding>
+            <marker date="1504990086000" expanded="true" signature="7:220" ph="..." />
+            <marker date="1504990086000" expanded="true" signature="266:742" ph="{...}" />
+            <marker date="1504990086000" expanded="true" signature="289:345" ph="{...}" />
+            <marker date="1504990086000" expanded="true" signature="371:415" ph="{...}" />
+            <marker date="1504990086000" expanded="true" signature="428:740" ph="{...}" />
+            <marker date="1504990086000" expanded="true" signature="449:730" ph="&lt;div/&gt;" />
+            <marker date="1504990086000" expanded="true" signature="479:717" ph="&lt;div/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <folding>
+            <marker date="1504973895000" expanded="true" signature="7:386" ph="..." />
+            <marker date="1504973895000" expanded="true" signature="416:651" ph="{...}" />
+            <marker date="1504973895000" expanded="true" signature="429:649" ph="{...}" />
+            <marker date="1504973895000" expanded="true" signature="450:638" ph="&lt;Router/&gt;" />
+            <marker date="1504973895000" expanded="true" signature="467:622" ph="&lt;div/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/league/LeagueFilter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" column="96" lean-forward="false" selection-start-line="2" selection-start-column="96" selection-end-line="2" selection-end-column="96" />
+          <folding>
+            <marker date="1504994327000" expanded="true" signature="197:909" ph="{...}" />
+            <marker date="1504994327000" expanded="true" signature="220:277" ph="{...}" />
+            <marker date="1504994327000" expanded="true" signature="301:347" ph="{...}" />
+            <marker date="1504994327000" expanded="true" signature="371:481" ph="{...}" />
+            <marker date="1504994327000" expanded="true" signature="494:907" ph="{...}" />
+            <marker date="1504994327000" expanded="true" signature="556:682" ph="{...}" />
+            <marker date="1504994327000" expanded="true" signature="581:667" ph="&lt;option/&gt;" />
+            <marker date="1504994327000" expanded="true" signature="704:897" ph="&lt;div/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/config/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1504994447000" expanded="true" signature="0:194" ph="{&quot;origin&quot;: &quot;http://localhost:3333&quot;...}" />
+            <marker date="1504994447000" expanded="true" signature="54:192" ph="{&quot;get&quot;: &quot;/players&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/players/PlayerForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <marker date="1505000244000" expanded="true" signature="7:119" ph="..." />
+            <marker date="1505000244000" expanded="true" signature="371:3372" ph="{...}" />
+            <marker date="1505000244000" expanded="true" signature="394:467" ph="{...}" />
+            <marker date="1505000244000" expanded="true" signature="496:733" ph="{...}" />
+            <marker date="1505000244000" expanded="true" signature="748:944" ph="{...}" />
+            <marker date="1505000244000" expanded="true" signature="842:938" ph="{...}" />
+            <marker date="1505000244000" expanded="true" signature="962:1103" ph="{...}" />
+            <marker date="1505000244000" expanded="true" signature="1010:1097" ph="{...}" />
+            <marker date="1505000244000" expanded="true" signature="1116:3370" ph="{...}" />
+            <marker date="1505000244000" expanded="true" signature="1170:1255" ph="{...}" />
+            <marker date="1505000244000" expanded="true" signature="1276:3359" ph="&lt;div/&gt;" />
+            <marker date="1505000244000" expanded="true" signature="1347:3225" ph="&lt;form/&gt;" />
+            <marker date="1505000244000" expanded="true" signature="1381:1789" ph="&lt;div/&gt;" />
+            <marker date="1505000244000" expanded="true" signature="1426:1515" ph="&lt;label/&gt;" />
+            <marker date="1505000244000" expanded="true" signature="1528:1772" ph="&lt;div/&gt;" />
+            <marker date="1505000244000" expanded="true" signature="1801:2227" ph="&lt;div/&gt;" />
+            <marker date="1505000244000" expanded="true" signature="1846:1934" ph="&lt;label/&gt;" />
+            <marker date="1505000244000" expanded="true" signature="1947:2210" ph="&lt;div/&gt;" />
+            <marker date="1505000244000" expanded="true" signature="1988:2191" ph="&lt;input/&gt;" />
+            <marker date="1505000244000" expanded="true" signature="2239:2672" ph="&lt;div/&gt;" />
+            <marker date="1505000244000" expanded="true" signature="2284:2374" ph="&lt;label/&gt;" />
+            <marker date="1505000244000" expanded="true" signature="2387:2655" ph="&lt;div/&gt;" />
+            <marker date="1505000244000" expanded="true" signature="2428:2636" ph="&lt;input/&gt;" />
+            <marker date="1505000244000" expanded="true" signature="2684:3208" ph="&lt;div/&gt;" />
+            <marker date="1505000244000" expanded="true" signature="2729:2819" ph="&lt;label/&gt;" />
+            <marker date="1505000244000" expanded="true" signature="2832:3191" ph="&lt;div/&gt;" />
+            <marker date="1505000244000" expanded="true" signature="2873:3172" ph="&lt;select/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/players/PlayerTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="50" column="3" lean-forward="true" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fantasy-football-tracker</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
