@@ -1,9 +1,0 @@
-{
-  "origin": "http://localhost:3333",
-  "endpoints": {
-    "get": "/players",
-    "getPlayer": "/players/get/:id",
-    "getPlayersByLeague": "/players/league/",
-    "save": "/players/add"
-  }
-}
