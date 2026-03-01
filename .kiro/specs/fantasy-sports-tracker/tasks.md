@@ -15,26 +15,26 @@ This implementation plan converts the fantasy sports tracker design into actiona
   - Create base configuration files (tsconfig.json, astro.config.mjs)
   - _Requirements: 1.1, 1.5_
 
-- [ ] 2. Implement core data models and type definitions
-  - [ ] 2.1 Create TypeScript interfaces for core models
+- [x] 2. Implement core data models and type definitions
+  - [x] 2.1 Create TypeScript interfaces for core models
     - Define Team, Player, Statistics interfaces in models/
     - Define sport-specific stat interfaces (FootballStats, BasketballStats, etc.)
     - Define supporting types (SportType, PlayerFilters, ValidationResult, etc.)
     - _Requirements: 2.1, 2.2, 2.3, 2.4, 4.1_
 
-  - [ ]* 2.2 Write unit tests for type validation
+  - [x] 2.2 Write unit tests for type validation
     - Test that valid data conforms to interfaces
     - Test edge cases for optional fields
     - _Requirements: 4.1_
 
-- [ ] 3. Implement storage abstraction layer
-  - [ ] 3.1 Create storage utility with localStorage wrapper
+- [x] 3. Implement storage abstraction layer
+  - [x] 3.1 Create storage utility with localStorage wrapper
     - Implement storage.ts with get, set, remove, clear functions
     - Add error handling for storage quota exceeded
     - Add serialization/deserialization logic
     - _Requirements: 8.1, 8.2_
 
-  - [ ]* 3.2 Write property test for storage round-trip
+  - [x] 3.2 Write property test for storage round-trip
     - **Property 8: Data persistence round-trip**
     - **Validates: Requirements 4.4, 8.1, 8.2**
 

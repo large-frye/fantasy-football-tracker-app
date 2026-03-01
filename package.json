@@ -8,10 +8,12 @@
     "preview": "astro preview",
     "astro": "astro",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "test:models:all": "vitest run src/models/tests/models.test.ts",
+    "test:utils:storage": "vitest run src/utils/tests/storage.test.ts"
   },
   "dependencies": {
-    "astro": "^5.17.1"
+    "astro": "^5.  .1"
   },
   "devDependencies": {
     "@types/node": "^22.10.5",
