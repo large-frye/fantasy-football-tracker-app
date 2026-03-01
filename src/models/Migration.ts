@@ -9,7 +9,7 @@ export interface MigrationResult {
 export interface MigrationError {
   type: 'team' | 'player' | 'stats';
   message: string;
-  data: any;
+  data: unknown;
 }
 
 export interface MigrationStatus {
